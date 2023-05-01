@@ -46,7 +46,7 @@ function DadosEntrega({ aoEnviar }) {
         }}
         id="numero"
         label="Número"
-        type="text"
+        type="number"
         variant="outlined"
         margin="normal"
       />
